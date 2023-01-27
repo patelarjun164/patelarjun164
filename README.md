@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjun Patel</h1>
 <h3 align="center">Programming Enthusiast</h3>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelarjun164&label=Profile%20views&color=0e75b6&style=flat" alt="patelarjun164" /> </p>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<p align="left"> <a href="https://twitter.com/_arjunpatel" target="blank"><img src="https://img.shields.io/twitter/follow/_arjunpatel?logo=twitter&style=for-the-badge" alt="_arjunpatel" /></a> </p>
 <br>
 
 - A passionate Self-taught Front-end developer
@@ -13,6 +13,10 @@
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelarjun164&label=Profile%20views&color=0e75b6&style=flat" alt="patelarjun164" /> </p>
+
+<p align="left"> <a href="https://twitter.com/_arjunpatel" target="blank"><img src="https://img.shields.io/twitter/follow/_arjunpatel?logo=twitter&style=for-the-badge" alt="_arjunpatel" /></a> </p>
+
 - 🌱 I’m currently learning **Web Development from Udemy**
 
 - 📫 How to reach me **patelarjun526@gmail.com**
