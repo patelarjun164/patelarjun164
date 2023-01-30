@@ -1,3 +1,4 @@
+![logo](https://github.com/patelarjun164/patelarjun164/blob/main/Arjun%20Patel.png)
 <h1 align="center">Hi 👋, I'm Arjun Patel</h1>
 <h3 align="center">Programming Enthusiast</h3>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
