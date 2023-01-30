@@ -6,7 +6,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/patelarjun164/patelarjun164/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
@@ -17,9 +17,9 @@
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelarjun164&label=Profile%20views&color=0e75b6&style=flat" alt="patelarjun164" /> </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://github.com/patelarjun164/patelarjun164/blob/main/skills.gif" width ="25"><b> Skills</b>
 <br>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/patelarjun164/patelarjun164/blob/main/Right_Side.gif" width = 300px></picture>
 <p align="center">
 
 - **Languages**:
@@ -56,7 +56,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/patelarjun164/patelarjun164/blob/main/stats.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -71,7 +71,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/patelarjun164/patelarjun164/blob/main/handshake.gif" width ="80">
 <br>
 <p align="left">
 <a href="https://twitter.com/_arjunpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arjunpatel" height="30" width="40" /></a>
