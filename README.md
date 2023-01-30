@@ -1,16 +1,20 @@
 ![logo](https://github.com/patelarjun164/patelarjun164/blob/main/Arjun%20Patel.png)
 <h1 align="center">Hi 👋, I'm Arjun Patel</h1>
 <h3 align="center">Programming Enthusiast</h3>
+<br>
+
+
+
+	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+
+- A passionate Self-taught developer
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1BLTDnhyV1ABYg-hN6Wb91iCz8aiJQCZt/view?usp=drivesdk)
 
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelarjun164&label=Profile%20views&color=0e75b6&style=flat" alt="patelarjun164" /> </p>
