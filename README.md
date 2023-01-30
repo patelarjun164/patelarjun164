@@ -12,7 +12,7 @@
 
 - A passionate Self-taught developer
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1BLTDnhyV1ABYg-hN6Wb91iCz8aiJQCZt/view?usp=drivesdk)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1BUF2aueX7TnKgtECJbU32TQ0k1nyBKz9/view?usp=drivesdk)
 - How to reach me **patelarjun526@gmail.com**
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelarjun164&label=Profile%20views&color=0e75b6&style=flat" alt="patelarjun164" /> </p>
