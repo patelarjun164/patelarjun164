@@ -74,7 +74,7 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/patelarjun164/patelarjun164/blob/main/handshake.gif" width ="80">
 <br>
 <p align="left">
-<a href="https://twitter.com/_arjunpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arjunpatel" height="30" width="40" /></a>
+<a href="https://twitter.com/__arjunpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arjunpatel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arjun-patel-0558b6183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-patel-0558b6183" height="30" width="40" /></a>
 <a href="https://fb.com/arjunpatel.005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arjunpatel.005" height="30" width="40" /></a>
 <a href="https://instagram.com/_.arjunpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.arjunpatel" height="30" width="40" /></a>
