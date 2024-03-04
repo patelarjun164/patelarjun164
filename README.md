@@ -42,8 +42,8 @@
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+    <img src="https://github.com/patelarjun164/patelarjun164/blob/b33edf34d244dbfefda745b0c2ae240d3f5f6249/github-pages-examples.png" width="40" height="auto">
+       
 <br>
 
 - **Softwares and Tools**:
