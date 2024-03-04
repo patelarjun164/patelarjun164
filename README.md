@@ -42,10 +42,10 @@
 
 - **Cloud Hosting**:
 
-    <a href="https://https://pages.github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patelarjun164/patelarjun164/blob/b33edf34d244dbfefda745b0c2ae240d3f5f6249/github-pages-examples.png" alt="react" width="40" height="auto"/> </a>
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patelarjun164/patelarjun164/blob/f0a7ba4f6bec1894a4b1461322e75358286175b4/netlify-logo-48A8CE8BCA-seeklogo.com.png" alt="react" width="40" height="auto"/> </a>
-    <a href="https://www.render.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patelarjun164/patelarjun164/blob/f0a7ba4f6bec1894a4b1461322e75358286175b4/Render-cloud-intellyx-BC-logo-300x157.png" alt="react" width="40" height="auto"/> </a>
-    <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patelarjun164/patelarjun164/blob/f0a7ba4f6bec1894a4b1461322e75358286175b4/vercel-seeklogo.svg" alt="react" width="40" height="auto"/> </a>
+    <a href="https://https://pages.github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patelarjun164/patelarjun164/blob/b33edf34d244dbfefda745b0c2ae240d3f5f6249/github-pages-examples.png" alt="react" width="40" height="40"/> </a>
+    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patelarjun164/patelarjun164/blob/f0a7ba4f6bec1894a4b1461322e75358286175b4/netlify-logo-48A8CE8BCA-seeklogo.com.png" alt="react" width="40" height="40"/> </a>
+    <a href="https://www.render.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patelarjun164/patelarjun164/blob/f0a7ba4f6bec1894a4b1461322e75358286175b4/Render-cloud-intellyx-BC-logo-300x157.png" alt="react" width="40" height="40"/> </a>
+    <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/patelarjun164/patelarjun164/blob/f0a7ba4f6bec1894a4b1461322e75358286175b4/vercel-seeklogo.svg" alt="react" width="40" height="40"/> </a>
 <br>
 
 - **Softwares and Tools**:
