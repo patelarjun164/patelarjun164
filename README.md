@@ -19,7 +19,7 @@
 
 ## <img src="https://github.com/patelarjun164/patelarjun164/blob/main/skills.gif" width ="25"><b> Skills</b>
 <br>
-<picture> <img align="right" src="https://github.com/patelarjun164/patelarjun164/blob/main/Right_Side.gif" width = 300px></picture>
+<picture> <img align="center" src="https://github.com/patelarjun164/patelarjun164/blob/main/Right_Side.gif" width = 300px></picture>
 <p align="center">
 
 - **Languages**:
