@@ -1,4 +1,4 @@
-[![logo](https://github.com/patelarjun164/patelarjun164/blob/main/Arjun%20Patel.png](https://github.com/patelarjun164/patelarjun164/blob/7ea552c64a2ff528adf972c8dbf6e4207103b16d/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png))
+<img src="https://github.com/patelarjun164/patelarjun164/blob/bf33b7741ded324ba30a0e94f7727ea31d39e607/github_lkin%20banner.jpg" >
 <h1 align="center">Hi 👋, I'm Arjun Patel</h1>
 <h3 align="center">Programming Enthusiast</h3>
 <br>
