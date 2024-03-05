@@ -1,4 +1,4 @@
-<img src="https://github.com/patelarjun164/patelarjun164/blob/bf33b7741ded324ba30a0e94f7727ea31d39e607/github_lkin%20banner.jpg" >
+<img src="https://github.com/patelarjun164/patelarjun164/blob/bf33b7741ded324ba30a0e94f7727ea31d39e607/github_lkin%20banner.jpg" pointer-events="none">
 <h1 align="center">Hi 👋, I'm Arjun Patel</h1>
 <h3 align="center">Programming Enthusiast</h3>
 <br>
