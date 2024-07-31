@@ -12,7 +12,7 @@
 
 - A passionate Self-taught developer
 - Currently learning Mern stack Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1djKz_qTmGHw6uvd_5a9J6P2Az4z-GEsP/view?usp=drivesdk)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Cbj3XvXaWy9fc3T_6fly7qgZD3aaq3Ge/view?usp=drivesdk)
 - How to reach me **patelarjun526@gmail.com**
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelarjun164&label=Profile%20views&color=0e75b6&style=flat" alt="patelarjun164" /> </p>
