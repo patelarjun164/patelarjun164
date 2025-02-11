@@ -11,7 +11,8 @@
 <br>
 
 - A passionate Self-taught developer
-- Currently learning Mern stack Development by Self
+- Current learning Java Full Stack from FirstBit Solutions, Pune.
+- Mern Stack Developer
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Cbj3XvXaWy9fc3T_6fly7qgZD3aaq3Ge/view?usp=drivesdk)
 - How to reach me **patelarjun526@gmail.com**
 <br><br>
@@ -27,6 +28,8 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> </a>
+
 
 <br>   
     
